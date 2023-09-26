@@ -2,6 +2,7 @@
 
 ## 프로젝트 소개
 금융결제원 오픈 API를 활용한 오픈뱅킹 기반 간편결제(지급결제) 시스템 구현
+* 프로젝트 프레젠테이션 [링크](https://docs.google.com/presentation/d/e/2PACX-1vSHAC8HqaQUgLuaMawOQHkeGzfTX4-z6-6gwxgiUF_-PQ7c8aWaOwJBWNo-WhgRln4XtU7f6-neUyHh/pub?start=false&loop=false&delayms=3000)
 
 ## 주요기능
 #### ▷ Oauth2.0방식 사용자 인증 구현
